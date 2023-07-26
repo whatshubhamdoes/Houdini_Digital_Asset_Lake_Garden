@@ -1,11 +1,4 @@
-# Lake Garden Builder HDA
-
-
-= Lake Garden Builder HDA =
-
-#icon: opdef:.?Lake_Garden_Icon2.png
-
-#context: geo
+# Houdini Digital Asset : Lake Garden Builder
 
 """ Automatically generates a Lake Garden for you """
 
@@ -27,11 +20,7 @@ P.S. the water of the lake is animated. Hit the play button and see for yourself
 
 Reference Images - 
 
-[Link Reference Images|https://drive.google.com/drive/folders/1GA4jplU8hnHMMlye40VDXS_Xcd4OlK1w?usp=share_link]
-
-[Image : opdef:.?PoolePark1.jpg]
-
-[Image : opdef:.?PoolePark4.jpg]
+Link Reference Images - https://drive.google.com/drive/folders/1GA4jplU8hnHMMlye40VDXS_Xcd4OlK1w?usp=share_link
 
 == Using this HDA ==
 1. In a new geometry, add a "Curve Beizer" node with order 4. Set view as "Top Viewport".
@@ -50,7 +39,7 @@ Reference Images -
 
 8. Voila. Your lake garden is ready!
 
-@parameters
+# Parameters
 Garden Color:
     #id: color_garden
     This controls the color of the garden terrain.
