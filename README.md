@@ -44,7 +44,7 @@ Reference Images -
 
 5. In the brush parameters of the above-said node, set the "Opacity" to 1 and "Soft Edge" to 0.5 and draw the lake/lakes as you desire.
 
-6. In the same node, set the "Opacity" to 1 and "Soft Edge" to 0.5 and draw the pathway to the lake/lakes as you desire.
+6. In the same node, set the "Opacity" to 0.5 and "Soft Edge" to 1 and draw the pathway to the lake/lakes as you desire.
 
 7. Connect the output of this "Attribute Paint" node to this HDA and turn on the "Display/Render" flag.
 
